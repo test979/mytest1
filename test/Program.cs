@@ -12,7 +12,7 @@ namespace test
         {
 
             //Hello Ashutosh
-
+            //HHHHHHHHHHHHHHHHHHHHHHHHH
             //       SELECT*
             //       FROM   Advertisement INNER JOIN
             //       SubCategory ON Advertisement.SubCategoryID = SubCategory.SubCategoryID INNER JOIN
